@@ -1,6 +1,5 @@
 
-#重建二叉树
-#输入二叉树的前序和中序结果（不含重复数字），重建该二叉树
+#重建二叉树 输入二叉树的前序和中序结果（不含重复数字），重建该二叉树
 class Node:
     def __init__(self,data,left,right):
         self.data=data
